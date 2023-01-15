@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test cases for movies App should render the App and match the snapshot 1`] = `
+<div
+  className="App"
+>
+  <h2>
+    Movie Search
+  </h2>
+  <input
+    data-testid="search-input"
+    onChange={[Function]}
+  />
+  <div
+    className="container"
+  >
+    <div>
+      <h4>
+        Enter Genre to Search
+      </h4>
+    </div>
+  </div>
+</div>
+`;
